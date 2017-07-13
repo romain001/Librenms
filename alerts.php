@@ -24,7 +24,7 @@
  * @package LibreNMS
  * @subpackage Alerts
  */
-
+#add new fonctionalité for this file you know if they work it
 require_once 'includes/defaults.inc.php';
 require_once 'config.php';
 

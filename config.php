@@ -8,7 +8,10 @@ $config['db_pass'] = 'librenms';
 $config['db_name'] = 'librenms';
 $config['db']['extension'] = "mysqli";// mysql or mysqli
 
-
+$config['opentsdb'] = 'localhost';
+$config['opentsdb'] = 'librenms';
+$config['opentsdb'] = 'librenms';
+ 
 $config['influxdb']['enable']= true;
 $config['influxdb']['transport'] = 'http'; # Default, other options: https, udp
 $config['influxdb']['host'] = '127.0.0.1';
